@@ -9,7 +9,7 @@ Subjective evaluation of speech quality is the most reliable way to evaluate spe
 
 ## **Usage**
 ### **1. Import Audio Samples**
-* Download the test datasets from this [link](https://dysononline-my.sharepoint.com/:f:/g/personal/huiqi_guo_dyson_com/EoLiH7S9qz5Ipd8OBzszPA8BsZzFp0Yq3GUOw3hYv6sH6w?e=A4E5bg) and move the datasets folder into your project folder. This folder contains 3 subfolders of audio samples which the DNSMOS model was evaluated on. 
+* Download the test datasets from this [link](https://dysononline-my.sharepoint.com/:u:/g/personal/huiqi_guo_dyson_com/ERjd1k7ci-JKjBIAbldXxscBnNLUpZgnzg8W3wdQFQksSg?e=fcN22w) and move the extracted datasets folder into your project folder. This folder contains 3 subfolders of audio samples which the DNSMOS model was evaluated on. 
 * Alternatively, create an empty datasets folder and store the audio samples that you want to evaluate in .wav format inside the folder.
 
 ### **2. Generate CSV Files**
